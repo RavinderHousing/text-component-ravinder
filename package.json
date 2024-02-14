@@ -1,13 +1,10 @@
 {
-  "name": "extra_package",
+  "name": "@RavinderHousing/extra_package",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@RavinderHousing"
-  },
-  "repository":{
-    "url":"https://github.com/RavinderHousing/extra_package"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
