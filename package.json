@@ -1,10 +1,10 @@
 {
-  "name": "@text-component-ravinder/extra_package",
+  "name": "@ravinderhousing/extra_package",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@text-component-ravinder"
+    "registry": "https://npm.pkg.github.com/@RavinderHousing"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
