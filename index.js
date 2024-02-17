@@ -27,6 +27,11 @@ const MagicText = ({
                 {title}
             </Text>
             
+            <Text 
+                style={{color: titleColors, fontSize: titleSize}}
+            >
+                {title}
+            </Text>
         </View>
     )
 }
