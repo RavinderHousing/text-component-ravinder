@@ -18,7 +18,7 @@ const MagicText = ({
             <Text 
                 style={{color: titleColors, fontSize: titleSize}}
             >
-                {title}ughj
+                {title}xyz123
             </Text>
 
             <Text 
